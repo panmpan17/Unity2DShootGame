@@ -85,7 +85,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<Keyboard>/w"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""Keyboard"",
                     ""action"": ""Move"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": true
@@ -96,7 +96,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<Keyboard>/s"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""Keyboard"",
                     ""action"": ""Move"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": true
@@ -107,7 +107,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<Keyboard>/a"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""Keyboard"",
                     ""action"": ""Move"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": true
@@ -118,7 +118,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<Keyboard>/d"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""Keyboard"",
                     ""action"": ""Move"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": true
@@ -129,7 +129,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<DualShockGamepad>/dpad"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""PS3"",
                     ""action"": ""Move"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -140,7 +140,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<DualShockGamepad>/leftStick"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""PS3"",
                     ""action"": ""Move"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -151,7 +151,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<XInputController>/leftStick"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""Xbox"",
                     ""action"": ""Move"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -162,7 +162,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<XInputController>/dpad"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""Xbox"",
                     ""action"": ""Move"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -173,7 +173,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<Keyboard>/space"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""Keyboard"",
                     ""action"": ""Dash"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -184,7 +184,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<DualShockGamepad>/buttonSouth"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""PS3"",
                     ""action"": ""Dash"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -195,7 +195,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<XInputController>/buttonSouth"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""Xbox"",
                     ""action"": ""Dash"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -206,7 +206,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<Mouse>/leftButton"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""Keyboard"",
                     ""action"": ""Shoot"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -217,7 +217,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<DualShockGamepad>/buttonWest"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""PS3"",
                     ""action"": ""Shoot"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -228,7 +228,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<XInputController>/buttonWest"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""Xbox"",
                     ""action"": ""Shoot"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -239,7 +239,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<Mouse>/position"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""Keyboard"",
                     ""action"": ""MouseMove"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -261,7 +261,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<DualShockGamepad>/rightStick/left"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""PS3"",
                     ""action"": ""RotateCrosshair"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": true
@@ -272,7 +272,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<DualShockGamepad>/rightStick/right"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""PS3"",
                     ""action"": ""RotateCrosshair"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": true
@@ -294,7 +294,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<DualShockGamepad>/leftShoulder"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""PS3"",
                     ""action"": ""RotateCrosshair"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": true
@@ -305,7 +305,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<DualShockGamepad>/rightShoulder"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""PS3"",
                     ""action"": ""RotateCrosshair"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": true
@@ -327,7 +327,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<XInputController>/rightStick/left"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""Xbox"",
                     ""action"": ""RotateCrosshair"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": true
@@ -338,7 +338,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<XInputController>/rightStick/right"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""Xbox"",
                     ""action"": ""RotateCrosshair"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": true
@@ -360,7 +360,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<XInputController>/leftShoulder"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""Xbox"",
                     ""action"": ""RotateCrosshair"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": true
@@ -371,7 +371,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<XInputController>/rightShoulder"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""Xbox"",
                     ""action"": ""RotateCrosshair"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": true
@@ -382,7 +382,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<Keyboard>/escape"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""Keyboard"",
                     ""action"": ""Pause"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -393,7 +393,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<DualShockGamepad>/start"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""PS3"",
                     ""action"": ""Pause"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -404,7 +404,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<DualShockGamepad>/buttonEast"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""PS3"",
                     ""action"": ""Pause"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -415,7 +415,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<XInputController>/select"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""Xbox"",
                     ""action"": ""Pause"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -426,7 +426,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<XInputController>/buttonEast"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""Xbox"",
                     ""action"": ""Pause"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -493,7 +493,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<Keyboard>/escape"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""Keyboard"",
                     ""action"": ""Cancel"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -504,7 +504,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<DualShockGamepad>/start"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""PS3"",
                     ""action"": ""Cancel"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -515,7 +515,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<DualShockGamepad>/buttonEast"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""PS3"",
                     ""action"": ""Cancel"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -526,7 +526,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<XInputController>/select"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""Xbox"",
                     ""action"": ""Cancel"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -537,7 +537,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<XInputController>/buttonEast"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""Xbox"",
                     ""action"": ""Cancel"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -548,7 +548,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<Keyboard>/w"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""Keyboard"",
                     ""action"": ""Up"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -559,7 +559,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<Keyboard>/upArrow"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""Keyboard"",
                     ""action"": ""Up"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -570,7 +570,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<DualShockGamepad>/leftStick/up"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""PS3"",
                     ""action"": ""Up"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -581,7 +581,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<DualShockGamepad>/dpad/up"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""PS3"",
                     ""action"": ""Up"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -592,7 +592,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<XInputController>/leftStick/up"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""Xbox"",
                     ""action"": ""Up"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -603,7 +603,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<XInputController>/dpad/up"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""Xbox"",
                     ""action"": ""Up"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -614,7 +614,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<Keyboard>/s"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""Keyboard"",
                     ""action"": ""Down"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -625,7 +625,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<Keyboard>/downArrow"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""Keyboard"",
                     ""action"": ""Down"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -636,7 +636,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<DualShockGamepad>/leftStick/down"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""PS3"",
                     ""action"": ""Down"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -647,7 +647,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<DualShockGamepad>/dpad/down"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""PS3"",
                     ""action"": ""Down"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -658,7 +658,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<XInputController>/leftStick/down"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""Xbox"",
                     ""action"": ""Down"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -669,7 +669,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<Keyboard>/a"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""Keyboard"",
                     ""action"": ""Left"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -680,7 +680,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<Keyboard>/leftArrow"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""Keyboard"",
                     ""action"": ""Left"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -691,7 +691,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<DualShockGamepad>/leftStick/left"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""PS3"",
                     ""action"": ""Left"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -702,7 +702,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<DualShockGamepad>/dpad/left"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""PS3"",
                     ""action"": ""Left"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -713,7 +713,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<XInputController>/leftStick/left"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""Xbox"",
                     ""action"": ""Left"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -724,7 +724,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<XInputController>/dpad/left"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""Xbox"",
                     ""action"": ""Left"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -735,7 +735,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<Keyboard>/d"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""Keyboard"",
                     ""action"": ""Right"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -746,7 +746,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<Keyboard>/rightArrow"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""Keyboard"",
                     ""action"": ""Right"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -757,7 +757,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<DualShockGamepad>/leftStick/right"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""PS3"",
                     ""action"": ""Right"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -768,7 +768,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<DualShockGamepad>/dpad/right"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""PS3"",
                     ""action"": ""Right"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -779,7 +779,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<XInputController>/leftStick/right"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""Xbox"",
                     ""action"": ""Right"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -790,7 +790,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<XInputController>/dpad/right"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""Xbox"",
                     ""action"": ""Right"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -801,7 +801,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<Keyboard>/space"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""Keyboard"",
                     ""action"": ""Submit"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -812,7 +812,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<DualShockGamepad>/buttonSouth"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""PS3"",
                     ""action"": ""Submit"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -823,7 +823,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<XInputController>/buttonSouth"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""Xbox"",
                     ""action"": ""Submit"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -834,7 +834,7 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
                     ""path"": ""<XInputController>/dpad/down"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": ""Xbox"",
                     ""action"": ""Down"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -842,7 +842,23 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
             ]
         }
     ],
-    ""controlSchemes"": []
+    ""controlSchemes"": [
+        {
+            ""name"": ""Keyboard"",
+            ""bindingGroup"": ""Keyboard"",
+            ""devices"": []
+        },
+        {
+            ""name"": ""Xbox"",
+            ""bindingGroup"": ""Xbox"",
+            ""devices"": []
+        },
+        {
+            ""name"": ""PS3"",
+            ""bindingGroup"": ""PS3"",
+            ""devices"": []
+        }
+    ]
 }");
         // Playing
         m_Playing = asset.FindActionMap("Playing", throwIfNotFound: true);
@@ -1051,6 +1067,33 @@ public class @PlayerInputMap : IInputActionCollection, IDisposable
         }
     }
     public UIActions @UI => new UIActions(this);
+    private int m_KeyboardSchemeIndex = -1;
+    public InputControlScheme KeyboardScheme
+    {
+        get
+        {
+            if (m_KeyboardSchemeIndex == -1) m_KeyboardSchemeIndex = asset.FindControlSchemeIndex("Keyboard");
+            return asset.controlSchemes[m_KeyboardSchemeIndex];
+        }
+    }
+    private int m_XboxSchemeIndex = -1;
+    public InputControlScheme XboxScheme
+    {
+        get
+        {
+            if (m_XboxSchemeIndex == -1) m_XboxSchemeIndex = asset.FindControlSchemeIndex("Xbox");
+            return asset.controlSchemes[m_XboxSchemeIndex];
+        }
+    }
+    private int m_PS3SchemeIndex = -1;
+    public InputControlScheme PS3Scheme
+    {
+        get
+        {
+            if (m_PS3SchemeIndex == -1) m_PS3SchemeIndex = asset.FindControlSchemeIndex("PS3");
+            return asset.controlSchemes[m_PS3SchemeIndex];
+        }
+    }
     public interface IPlayingActions
     {
         void OnPause(InputAction.CallbackContext context);
